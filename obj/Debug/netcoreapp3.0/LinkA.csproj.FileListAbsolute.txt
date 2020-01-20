@@ -1,0 +1,11 @@
+C:\Users\Teejan\source\repos\LinkA\LinkA\bin\Debug\netcoreapp3.0\LinkA.exe
+C:\Users\Teejan\source\repos\LinkA\LinkA\bin\Debug\netcoreapp3.0\LinkA.deps.json
+C:\Users\Teejan\source\repos\LinkA\LinkA\bin\Debug\netcoreapp3.0\LinkA.runtimeconfig.json
+C:\Users\Teejan\source\repos\LinkA\LinkA\bin\Debug\netcoreapp3.0\LinkA.runtimeconfig.dev.json
+C:\Users\Teejan\source\repos\LinkA\LinkA\bin\Debug\netcoreapp3.0\LinkA.dll
+C:\Users\Teejan\source\repos\LinkA\LinkA\bin\Debug\netcoreapp3.0\LinkA.pdb
+C:\Users\Teejan\source\repos\LinkA\LinkA\obj\Debug\netcoreapp3.0\LinkA.csprojAssemblyReference.cache
+C:\Users\Teejan\source\repos\LinkA\LinkA\obj\Debug\netcoreapp3.0\LinkA.AssemblyInfoInputs.cache
+C:\Users\Teejan\source\repos\LinkA\LinkA\obj\Debug\netcoreapp3.0\LinkA.AssemblyInfo.cs
+C:\Users\Teejan\source\repos\LinkA\LinkA\obj\Debug\netcoreapp3.0\LinkA.dll
+C:\Users\Teejan\source\repos\LinkA\LinkA\obj\Debug\netcoreapp3.0\LinkA.pdb
